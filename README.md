@@ -17,7 +17,7 @@ python backend.py
 ### start frontend:
 
 ```sh
-npm run test:unit
+npm run dev
 ```
 
 then terminal will show: 
