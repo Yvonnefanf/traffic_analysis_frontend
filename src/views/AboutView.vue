@@ -117,10 +117,10 @@ import { RouterLink, RouterView } from 'vue-router'
             <div style="margin-left: 20px;">
               <h3>Action Sequence</h3>
               <div style="margin:20px 0;">
-                <el-button style="width: 100px; white-space: wrap;" @click="showWeb = true">Website
+                <el-button style="width: 100px; white-space: normal;" @click="showWeb = true">Website
                   fingerprinting</el-button>
-                <el-button style="width: 100px; white-space: wrap;" :disabled="true">malware analysis</el-button>
-                <el-button style="width: 100px; white-space: wrap;" :disabled="true">intrusion detection</el-button>
+                <el-button style="width: 100px; white-space: normal;" :disabled="true">malware analysis</el-button>
+                <el-button style="width: 100px; white-space: normal;" :disabled="true">intrusion detection</el-button>
 
               </div>
             </div>
