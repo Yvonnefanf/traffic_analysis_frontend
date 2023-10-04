@@ -4,7 +4,7 @@ install: [Node.js](https://nodejs.org/en)
 input node -v on terminal, you should see output like this:
 ```sh
 node -v
-v_._._
+v7.6.0
 ```
 
 
